@@ -1,3 +1,26 @@
-baseURL = 'http://example.org/'
+baseURL = 'http://indihome.org/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'Indihome'
+theme = "github-style"
+pygmentsCodeFences = true
+pygmentsUseClasses = true
+
+enableGitalk = true
+
+  [params.gitalk]
+    clientID = "Your client ID" 
+    clientSecret = "Your client secret" 
+    repo = "repo"
+    owner = "Your Github username"
+    admin = "Your Github username"
+    id = "location.pathname"
+    labels = "gitalk"
+    perPage = 30
+    pagerDirection = "last"
+    createIssueManually = true
+    distractionFreeMode = false
+
+lastmod = true
+
+[frontmatter]
+  lastmod = ["lastmod", ":fileModTime", ":default"]
