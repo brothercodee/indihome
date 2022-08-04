@@ -2,7 +2,7 @@
 title: "Perdana"
 date: 2022-01-22T18:46:47+08:00
 draft: false
-pin: false
+pin: true
 ---
 # IndiHome Paket 2P (Internet + Phone)
 
