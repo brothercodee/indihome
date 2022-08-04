@@ -1,26 +1,50 @@
-baseURL = 'http://indihome.org/'
+baseURL = "https://brothercodee.github.io/indihome/"
 languageCode = 'en-us'
 title = 'Indihome'
 theme = "github-style"
+googleAnalytics = "UA-123456-789"
 pygmentsCodeFences = true
 pygmentsUseClasses = true
 
-enableGitalk = true
+[params]
+  author = "Indihome"
+  description = "Melayani pasang baru Telkom Indihome."
+  github = "brothercode"
+  facebook = "Indihome"
+  twitter = "Indihome"
+  linkedin = "Indihome"
+  instagram = "Indihome"
+  tumblr = "Indihome"
+  email = "Indihome@gmail.com"
+  url = "https://brothercode.github.io"
+  keywords = "blog, google analytics"
+  rss = true
+  lastmod = true
+  userStatusEmoji = "😀"
+  favicon = "/images/github.png"
+  location = "Indonesia"
+  enableGitalk = true
 
   [params.gitalk]
     clientID = "Your client ID" 
     clientSecret = "Your client secret" 
     repo = "repo"
-    owner = "Your Github username"
-    admin = "Your Github username"
+    owner = "Indihome"
+    admin = "Indihome"
     id = "location.pathname"
     labels = "gitalk"
-    perPage = 30
+    perPage = 15
     pagerDirection = "last"
     createIssueManually = true
     distractionFreeMode = false
 
-lastmod = true
+  [[params.links]]
+    title = "Link"
+    href = "https://brothercodee.github.io/indihome/"
+  [[params.links]]
+    title = "Link2"
+    href = "https://brothercodee.github.io/indihome/"
+    icon = "https://meik2333.com/images/avatar.png"
 
 [frontmatter]
   lastmod = ["lastmod", ":fileModTime", ":default"]
