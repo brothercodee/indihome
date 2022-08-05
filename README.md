@@ -12,4 +12,4 @@ hugo
 cd public
 git add .
 git commit -m "tes Deploy hugo"
-git push -u origin master
+git push -u origin main
