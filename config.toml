@@ -8,20 +8,20 @@ pygmentsUseClasses = true
 
 [params]
   author = "Indihome"
-  description = "Melayani pasang baru Telkom Indihome."
-  github = "brothercode"
+  description = "Melayani pasang baru Telkom Indihome. WA : 082382305699"
+  github = "Indihome"
   facebook = "Indihome"
   twitter = "Indihome"
   linkedin = "Indihome"
   instagram = "Indihome"
   tumblr = "Indihome"
-  email = "Indihome@gmail.com"
-  url = "https://brothercode.github.io"
+  email = "nofegreen@gmail.com"
+  url = "https://brothercodee.github.io/indihome"
   keywords = "blog, google analytics"
   rss = true
   lastmod = true
   userStatusEmoji = "😀"
-  favicon = "/images/github.png"
+  favicon = "/images/indihome.png"
   location = "Indonesia"
   enableGitalk = true
 

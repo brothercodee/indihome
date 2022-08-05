@@ -1,12 +1,13 @@
 ---
-title: "Perdana"
-date: 2022-01-22T18:46:47+08:00
-draft: true
+title: "Paket Indihome 30 Mbps"
+date: 2022-08-05T10:15:51+07:00
+draft: false
 pin: true
 ---
-# IndiHome Paket 2P (Internet + Phone)
 
-## Diskon Biaya PSB 50 %
+# Indihome Paket 2P (Internet + Phone)
+
+Diskon Biaya PSB 50 %
 
 Cocok digunakan untuk 5 - 7 perangkat sekaligus.
 
@@ -16,9 +17,9 @@ Biaya pasang baru setelah diskon Rp 277.500
 
 Biaya Perbulan Rp 346.500
 
-# IndiHome Paket 2P (Internet + TV)
+# Indihome Paket 2P (Internet + TV)
 
-## Diskon Biaya PSB 50 %
+Diskon Biaya PSB 50 %
 
 Cocok digunakan untuk 5 - 7 perangkat sekaligus.
 
